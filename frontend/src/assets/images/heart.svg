@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>heart-2-fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-租赁页面" transform="translate(-725.000000, -147.000000)">
+            <g id="heart-2-fill" transform="translate(725.000000, 147.000000)">
+                <polygon id="路径" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M20.243,4.757 C22.505,7.025 22.583,10.637 20.479,12.993 L11.999,21.485 L3.521,12.993 C1.417,10.637 1.496,7.019 3.757,4.757 C5.515,2.99988883 8.093,2.56 10.261,3.44 L6.343,7.358 L7.757,8.773 L11.9999939,4.53 L11.987,4.516 L12.001,4.529 C14.35,2.42 17.98,2.49 20.243,4.757 Z" id="路径" fill="#FF4444" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
